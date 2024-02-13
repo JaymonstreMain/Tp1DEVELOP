@@ -1,0 +1,164 @@
+[2023/08/10 09:45:01] === update info ===
+[2023/08/10 09:45:01]  platformUpdate: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\platformupdate11309585082360243727_dir\lib\platforminstaller.jar
+[2023/08/10 09:45:01]  updateIndex: 0
+[2023/08/10 09:45:01]  process: true
+[2023/08/10 09:45:01]  local server: false (patch: false)
+[2023/08/10 09:45:01]  config: false
+[2023/08/10 09:45:01]  quiet: false
+[2023/08/10 09:45:01]  init: false (force: false, version: null)
+[2023/08/10 09:45:01]  local: null
+[2023/08/10 09:45:01]  server: null
+[2023/08/10 09:45:01]  servers: null
+[2023/08/10 09:45:01]  directory: null
+[2023/08/10 09:45:01]  proxy.host: 
+[2023/08/10 09:45:01]  proxy.port: 
+[2023/08/10 09:45:01]  update from vp: true
+[2023/08/10 09:45:01]  auto updating: false
+[2023/08/10 09:45:01]  auto updating 2: false
+[2023/08/10 09:45:01]  client build: null
+[2023/08/10 09:45:01]  request download key 12.0: null
+[2023/08/10 09:45:01] === Internet Connection Links ====
+[2023/08/10 09:45:01] servers: https://www.visual-paradigm.com/download/productupdate/vp.jsp
+[2023/08/10 09:45:01] latest: https://www.visual-paradigm.com/download/latestinfo.jsp
+[2023/08/10 09:45:01] documentation: https://www.visual-paradigm.com/installers/vpsuite17.1/
+[2023/08/10 09:45:01] product name: Visual Paradigm
+[2023/08/10 09:45:01] ----------------------------------
+[2023/08/10 09:45:01] === Internet Connection Links ====
+[2023/08/10 09:45:01] servers: https://www.visual-paradigm.com/download/productupdate/vp.jsp
+[2023/08/10 09:45:01] latest: https://www.visual-paradigm.com/download/latestinfo.jsp
+[2023/08/10 09:45:01] documentation: https://www.visual-paradigm.com/installers/vpsuite17.1/
+[2023/08/10 09:45:01] product name: Visual Paradigm
+[2023/08/10 09:45:01] ----------------------------------
+[2023/08/10 09:45:01] <<< Update Process >>>
+[2023/08/10 09:45:01] Java 9 UI scale factor: 1.0
+[2023/08/10 09:45:01] Scale Factor: 1.0
+[2023/08/10 09:45:01] >>> read installed products: true, C:\Program Files\Visual Paradigm 17.1\resources\.product_installation.xml
+[2023/08/10 09:45:01] loading installed product: C:\Program Files\Visual Paradigm 17.1, vp, 1
+[2023/08/10 09:45:01] loadProductsInstallation: p.m.b@24313fcc
+[2023/08/10 09:45:01] > vp, C:\Program Files\Visual Paradigm 17.1
+[2023/08/10 09:45:01] x bin\dbvasql
+[2023/08/10 09:45:01] x resources\dbvasql
+[2023/08/10 09:45:01] x bin\bpva
+[2023/08/10 09:45:01] x bin\dbva
+[2023/08/10 09:45:01] x resources\dbva
+[2023/08/10 09:45:01] x bin\ag
+[2023/08/10 09:45:01] x bin\sde
+[2023/08/10 09:45:01] x sde
+[2023/08/10 09:45:01] x resources\ag
+[2023/08/10 09:45:01] x resources\bpva
+[2023/08/10 09:45:01] x resources\lz
+[2023/08/10 09:45:01] x bin\vpuml
+[2023/08/10 09:45:01] x resources\vpuml
+[2023/08/10 09:45:01] x resources\vp
+[2023/08/10 09:45:01] product properties, product: vp, p.m.a@6c40365c
+[2023/08/10 09:45:01] >>>>>> productInstallation.r_setProductProperty: C:\Program Files\Visual Paradigm 17.1, true
+[2023/08/10 09:45:01] ----------------- Update Main (GUI) ---------------
+[2023/08/10 09:45:01]  - selected - vp
+[2023/08/10 09:45:01] ---------------------------------------------
+[2023/08/10 09:45:02] >>> read installed products: true, C:\Program Files\Visual Paradigm 17.1\resources\.product_installation.xml
+[2023/08/10 09:45:02] loading installed product: C:\Program Files\Visual Paradigm 17.1, vp, 1
+[2023/08/10 09:45:12] === Java Execute =================
+[2023/08/10 09:45:12] c:\program files\visual paradigm 17.1\jre\bin\java
+[2023/08/10 09:45:12] -cp
+[2023/08/10 09:45:12] "C:\Program Files\Visual Paradigm 17.1\lib\platforminstaller.jar;"
+[2023/08/10 09:45:12] com.vp.platform.installer.ClearUpdateMain
+[2023/08/10 09:45:12] C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\platformupdate11309585082360243727_dir
+[2023/08/10 09:45:12] --------------------
+[2023/08/10 09:45:12] c:\program files\visual paradigm 17.1\jre\bin\java -cp "C:\Program Files\Visual Paradigm 17.1\lib\platforminstaller.jar;" com.vp.platform.installer.ClearUpdateMain C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\platformupdate11309585082360243727_dir
+[2023/08/10 09:45:12] --------------------
+[2023/08/10 09:49:45] === update info ===
+[2023/08/10 09:49:45]  platformUpdate: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\platformupdate6637485027263255060_dir\lib\platforminstaller.jar
+[2023/08/10 09:49:45]  updateIndex: 0
+[2023/08/10 09:49:45]  process: true
+[2023/08/10 09:49:45]  local server: false (patch: false)
+[2023/08/10 09:49:45]  config: false
+[2023/08/10 09:49:45]  quiet: false
+[2023/08/10 09:49:45]  init: false (force: false, version: null)
+[2023/08/10 09:49:45]  local: null
+[2023/08/10 09:49:45]  server: null
+[2023/08/10 09:49:45]  servers: null
+[2023/08/10 09:49:45]  directory: null
+[2023/08/10 09:49:45]  proxy.host: 
+[2023/08/10 09:49:45]  proxy.port: 
+[2023/08/10 09:49:45]  update from vp: false
+[2023/08/10 09:49:45]  auto updating: true
+[2023/08/10 09:49:45]  auto updating 2: false
+[2023/08/10 09:49:45]  client build: 20230601
+[2023/08/10 09:49:45]  request download key 12.0: null
+[2023/08/10 09:49:45] === Internet Connection Links ====
+[2023/08/10 09:49:45] servers: https://www.visual-paradigm.com/download/productupdate/vp.jsp
+[2023/08/10 09:49:45] latest: https://www.visual-paradigm.com/download/latestinfo.jsp
+[2023/08/10 09:49:45] documentation: https://www.visual-paradigm.com/installers/vpsuite17.1/
+[2023/08/10 09:49:45] product name: Visual Paradigm
+[2023/08/10 09:49:45] ----------------------------------
+[2023/08/10 09:49:45] === Internet Connection Links ====
+[2023/08/10 09:49:45] servers: https://www.visual-paradigm.com/download/productupdate/vp.jsp
+[2023/08/10 09:49:45] latest: https://www.visual-paradigm.com/download/latestinfo.jsp
+[2023/08/10 09:49:45] documentation: https://www.visual-paradigm.com/installers/vpsuite17.1/
+[2023/08/10 09:49:45] product name: Visual Paradigm
+[2023/08/10 09:49:45] ----------------------------------
+[2023/08/10 09:49:45] <<< Update Process >>>
+[2023/08/10 09:49:45] ----------------- Update Main (Auto) ---------------
+[2023/08/10 09:49:45] >>> read installed products: true, C:\Program Files\Visual Paradigm 17.1\resources\.product_installation.xml
+[2023/08/10 09:49:45] loading installed product: C:\Program Files\Visual Paradigm 17.1, vp, 1
+[2023/08/10 09:49:45] ---------------------------------------------
+[2023/08/10 09:49:45] Finding Server...
+[2023/08/10 09:49:45] Selected Server: Canada, https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update
+[2023/08/10 09:49:45] Trying connect server...
+[2023/08/10 09:49:45] test connection..... true, https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/resources/vpupdateinfo.xml
+[2023/08/10 09:49:45] Auto Update Checking Update Program...
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER: false, https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 3: https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/resources/vpupdateinfo.xml
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 4: true, sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@18d802d1
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 7: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@18d802d1
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 8: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\productupdatexml6574629630775009331.xml
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 9: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\productupdatexml6574629630775009331.xml
+[2023/08/10 09:49:45] Version --- https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update 
+program: 
+	20221201
+	20221201
+product: 
+	vp
+	vp
+build: 
+	20230601
+	20230711
+suite version: 
+	17.1
+	17.1
+resume: 
+	20230711
+	null
+[2023/08/10 09:49:45] Checking changes...
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER: false, https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 3: https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/resources/vpproductinstallation.xml
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 4: true, sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@5e5fe558
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 7: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@5e5fe558
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 8: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\productupdatexml15143663592359740972.xml
+[2023/08/10 09:49:45] >>>>>>>>>>> GET UPDATE XML FROM SERVER 9: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\productupdatexml15143663592359740972.xml
+[2023/08/10 09:49:46] >>>>>>>>>>> GET UPDATE XML FROM SERVER: false, https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update
+[2023/08/10 09:49:46] >>>>>>>>>>> GET UPDATE XML FROM SERVER 3: https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/resources/vpproductinstallation.xml
+[2023/08/10 09:49:46] >>>>>>>>>>> GET UPDATE XML FROM SERVER 4: true, sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@1a15d9af
+[2023/08/10 09:49:46] >>>>>>>>>>> GET UPDATE XML FROM SERVER 7: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@1a15d9af
+[2023/08/10 09:49:46] >>>>>>>>>>> GET UPDATE XML FROM SERVER 8: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\productupdatexml3249298576179158917.xml
+[2023/08/10 09:49:46] >>>>>>>>>>> GET UPDATE XML FROM SERVER 9: C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\productupdatexml3249298576179158917.xml
+[2023/08/10 09:49:46] downloading...: 0 (0.tmp), https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/lib/lib01.jar
+[2023/08/10 09:49:55] downloading...: 1 (1.tmp), https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/lib/lib02.jar
+[2023/08/10 09:50:02] 33% (2 of 6)
+[2023/08/10 09:50:02] downloading...: 2 (2.tmp), https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/lib/vpplatform.jar
+[2023/08/10 09:50:12] downloading...: 3 (3.tmp), https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/lib/vpserver.jar
+[2023/08/10 09:50:13] 66% (4 of 6)
+[2023/08/10 09:50:13] downloading...: 4 (4.tmp), https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/ormlib/orm.jar
+[2023/08/10 09:50:14] downloading...: 5 (5.tmp), https://ca1.dl.visual-paradigm.com/visual-paradigm/vp17.1/20230711/Update/resources/VP_Server_Win64.zip
+[2023/08/10 09:50:37] Downloading files... finished
+[2023/08/10 09:50:37] updating...
+[2023/08/10 09:50:37] >>>> Auto Update Dir: C:\Program Files\Visual Paradigm 17.1\bin\..\autoupdate
+[2023/08/10 09:51:31] === Java Execute =================
+[2023/08/10 09:51:31] c:\program files\visual paradigm 17.1\jre\bin\java
+[2023/08/10 09:51:31] -cp
+[2023/08/10 09:51:31] "C:\Program Files\Visual Paradigm 17.1\lib\platforminstaller.jar;"
+[2023/08/10 09:51:31] com.vp.platform.installer.ClearUpdateMain
+[2023/08/10 09:51:31] C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\platformupdate6637485027263255060_dir
+[2023/08/10 09:51:31] --------------------
+[2023/08/10 09:51:31] c:\program files\visual paradigm 17.1\jre\bin\java -cp "C:\Program Files\Visual Paradigm 17.1\lib\platforminstaller.jar;" com.vp.platform.installer.ClearUpdateMain C:\Users\labo.somp\AppData\Roaming\VisualParadigm\tmp\platformupdate6637485027263255060_dir
+[2023/08/10 09:51:31] --------------------
